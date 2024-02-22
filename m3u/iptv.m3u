@@ -107,7 +107,12 @@ http://148.135.93.213:81/live.php?id=辽宁卫视
 http://148.135.93.213:81/live.php?id=重庆卫视
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.eu.org/logo/黑龙江卫视.png" group-title="卫视IPV4",黑龙江卫视
 http://148.135.93.213:81/live.php?id=黑龙江卫视
-
+#EXTINF:-1 group-title="重庆台" tvg-id="重庆新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0517/small3acb7e0038edfda279eb7887faf38af2.jpg",重庆新闻频道
+https://sjlivecdn9.cbg.cn/202402081129/app_2/_definst_/ls_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="重庆台" tvg-id="重庆时尚购物频道" tvg-logo="http://tv.haoqu99.com/d/file/2020/0625/small8b5734c458942546e61af25e3758e00e.jpg",重庆时尚购物频道
+https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129
+#EXTINF:-1 group-title="湖南台" tvg-id="金鹰卡通" tvg-logo="http://tv.haoqu99.com/d/file/2014/0603/20140603063711188.jpg",金鹰卡通
+http://phonetx.qing.mgtv.com/nn_live/nn_x64/cWlkPSZzPTRkYjAxZWVkNzIwMGI1YmNjMmEzNjRkMzQ2YjhjZGVkJmVzPTE3MDczNzI3MTkmdXVpZD02Nzc2NmUwZmMxMTdlNDE1ZGE3NGU3YjVkZDNiODcxMy02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl/JYKTMPP360.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="CCTV8K" tvg-logo="https://epg.112114.eu.org/logo/CCTV8K.png" group-title="央视-4K",CCTV8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1,tvg-id="" tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="央视-4K",CCTV3-4K
