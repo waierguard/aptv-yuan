@@ -114,37 +114,9 @@ https://tv.iill.top/cqyx/cqrongmei
 #EXTINF:-1 group-title="•地区",﻿重庆卫视
 https://tv.iill.top/cqyx/chongqingHD
 #EXTINF:-1 group-title="•地区",重庆新闻
-https://tv.iill.top/cqyx/CQTVNewsHD
+http://113.206.187.110:8001/udp/225.0.4.188:7980
 #EXTINF:-1 group-title="•地区",重庆影视
-https://tv.iill.top/cqyx/cqyingshiHD
-#EXTINF:-1 group-title="•地区",重庆社会与法
-https://tv.iill.top/cqyx/CQTVTrendyHD
-#EXTINF:-1 group-title="•地区",重庆时尚生活
-https://tv.iill.top/cqyx/cqssgwHD
-#EXTINF:-1 group-title="•地区",重庆文体娱乐
-https://tv.iill.top/cqyx/cqwtylHD
-#EXTINF:-1 group-title="•地区",重庆新农村
-https://tv.iill.top/cqyx/cqggncHD
-#EXTINF:-1 group-title="•地区",重庆少儿
-https://tv.iill.top/cqyx/cqseHD
-#EXTINF:-1 group-title="•地区",重庆科教
-https://tv.iill.top/cqyx/CQTVkejiaoHD
+http://113.206.187.110:8001/udp/225.0.4.192:7980
 #EXTINF:-1 group-title="测试",番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 group-title="央视卫视IPV6",浙江公共新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 group-title="央视卫视IPV6",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="央视卫视IPV6",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="央视卫视IPV6",浙江教科影视
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="央视卫视IPV6",浙江数码时代
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="央视卫视IPV6",浙江民生休闲
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="央视卫视IPV6",浙江经济生活
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="央视卫视IPV6",浙江钱江频道
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
 
