@@ -109,14 +109,10 @@ http://148.135.93.213:81/live.php?id=重庆卫视
 http://148.135.93.213:81/live.php?id=黑龙江卫视
 #EXTINF:-1 group-title="卫视",三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-#EXTINF:-1 group-title="•地区",重广融媒
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="•地区",﻿重庆卫视
-https://tv.iill.top/cqyx/chongqingHD
-#EXTINF:-1 group-title="•地区",重庆新闻
-http://113.206.187.110:8001/udp/225.0.4.188:7980
-#EXTINF:-1 group-title="•地区",重庆影视
+#EXTINF:-1,tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://epg.112114.xyz/logo/重庆影视.png" group-title="卫视IPV4",重庆影视
 http://113.206.187.110:8001/udp/225.0.4.192:7980
-#EXTINF:-1 group-title="测试",番薯台
+#EXTINF:-1,tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://epg.112114.xyz/logo/重庆新闻.png" group-title="卫视IPV4",重庆新闻
+http://113.206.187.110:8001/udp/225.0.4.188:7980
+
 
 
